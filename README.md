@@ -46,13 +46,26 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 
 ---
 
+## 🎓 Plataforma de Estudos
+
+### 🌟 Digital Innovation One (DIO)
+[![DIO Profile](https://img.shields.io/badge/DIO%20Perfil-000?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_HERE&logoColor=00BFFF)](https://web.dio.me/users/programadoafonso)
+
+**📊 Estatísticas:**
+- ✅ **Certificados Concluídos:** [Ver conquistas](https://web.dio.me/users/programadoafonso?tab=achievements)
+- 📈 **Cursos em Andamento:** [Ver progresso](https://web.dio.me/users/programadoafonso?tab=courses)
+- 🏆 **Ranking:** [Ver posição](https://web.dio.me/users/programadoafonso?tab=ranking)
+
+🔗 **Link direto:** [https://web.dio.me/users/programadoafonso](https://web.dio.me/users/programadoafonso)
+
+---
+
 ## 📲 Onde me encontrar
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://web.dio.me/users/programadoafonso?tab=achievements)
+## 📫 Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programadoafonso@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-rafael-evangelista-da-silva-4909b4231/)
 
 ---
 
-### ✨ Obrigado por visitar meu perfil!  
-Se quiser ver meus projetos, fique à vontade para explorar meus repositórios
