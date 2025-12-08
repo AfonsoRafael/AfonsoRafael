@@ -14,11 +14,11 @@ Meu objetivo é **crescer como profissional**, contribuindo com soluções inova
 
 > Usando o fork mais estável atualmente → `rickstaa/vercel`
 
-### 🔹 Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfonsoRafael&show_icons=true&theme=transparent&bg_color=00000000)
 
-### 🔹 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfonsoRafael&layout=compact&theme=transparent&bg_color=00000000)
+![GitHub Stats](https://raw.githubusercontent.com/AfonsoRafael/github-stats/master/generated/overview.svg)
+
+![Top Langs](https://raw.githubusercontent.com/AfonsoRafael/github-stats/master/generated/languages.svg)
+
 
 ---
 
