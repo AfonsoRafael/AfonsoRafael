@@ -45,8 +45,10 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 ---
 
 ## 📲 Onde me encontrar
-Perdil DIO
+
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://web.dio.me/users/programadoafonso?tab=achievements)
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-rafael-evangelista-da-silva-4909b4231/)
 
 ---
