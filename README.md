@@ -34,8 +34,6 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfonsoRafael&show_icons=true&theme=radical&hide_border=true)
 
-## 📈 Linguagens Mais Usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoRafael&layout=compact&theme=radical&hide_border=true)
 
 ---
