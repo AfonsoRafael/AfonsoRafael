@@ -54,4 +54,4 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 ---
 
 ### ✨ Obrigado por visitar meu perfil!  
-Se quiser ver meus projetos, fique à vontade para explorar meus repositórios 😊
+Se quiser ver meus projetos, fique à vontade para explorar meus repositórios 
