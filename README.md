@@ -32,15 +32,11 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 
 ## 📊 Estatísticas do GitHub
 
-> Usando SVGs gerados pelo próprio GitHub — estáveis e sem risco de quebra.
-
-![GitHub Stats](https://raw.githubusercontent.com/AfonsoRafael/AfonsoRafael/main/generated/overview.svg)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfonsoRafael&show_icons=true&theme=radical&hide_border=true)
 
 ## 📈 Linguagens Mais Usadas
 
-![Top Langs](https://raw.githubusercontent.com/AfonsoRafael/AfonsoRafael/main/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoRafael&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -48,10 +44,9 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://web.dio.me/users/programadoafonso?tab=achievements)
 
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-rafael-evangelista-da-silva-4909b4231/)
 
 ---
 
 ### ✨ Obrigado por visitar meu perfil!  
-Se quiser ver meus projetos, fique à vontade para explorar meus repositórios 
+Se quiser ver meus projetos, fique à vontade para explorar meus repositórios
