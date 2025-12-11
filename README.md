@@ -1,3 +1,5 @@
+![Descrição da Imagem]()
+
 # Olá! Pode me chamar de **Afonso**  
 
 Sou apaixonado por tecnologia e pelo poder que ela tem de transformar ideias em soluções.  
