@@ -1,4 +1,4 @@
-![Descrição da Imagem]()
+![Descrição da Imagem](https://github.com/AfonsoRafael/AfonsoRafael/blob/main/AFONSO.png)
 
 # Olá! Pode me chamar de **Afonso**  
 
