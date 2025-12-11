@@ -34,9 +34,6 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 
 ## 📊 Estatísticas do GitHub
 
-### 🏆 Troféus
-[![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AfonsoRafael&theme=radical)](https://git.io/streak-stats)
 
