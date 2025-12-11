@@ -1,5 +1,4 @@
 ![Descrição da Imagem](https://github.com/AfonsoRafael/AfonsoRafael/blob/main/AFONSO.png)
-<img src="https://github.com/AfonsoRafael/AfonsoRafael/blob/main/AFONSO.png" alt="Descrição da Imagem" width="300"/>
 
 # Olá! Pode me chamar de **Afonso**  
 
