@@ -35,12 +35,18 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 ## 📊 Estatísticas do GitHub
 
 ### 🔥 Streak
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AfonsoRafael&theme=radical)](https://git.io/streak-stats)
 
 ### 📈 Estatísticas Gerais
+
+
 ![GitHub Stats](https://github-readme-stats-eight-phi-85.vercel.app/api?username=AfonsoRafael&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ### 💻 Linguagens Mais Usadas
+
+
 ![Top Langs](https://github-readme-stats-eight-phi-85.vercel.app/api/top-langs/?username=AfonsoRafael&layout=compact&theme=radical&hide_border=true)
 
 ---
