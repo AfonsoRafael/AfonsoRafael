@@ -75,5 +75,3 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 ---
 
 ![snake gif](https://github.com/AfonsoRafael/AfonsoRafael/blob/output/github-contribution-grid-snake.svg)
-
-
