@@ -54,14 +54,13 @@ No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **
 ## 🎓 Plataforma de Estudos
 
 ### 🌟 Digital Innovation One (DIO)
-[![DIO Profile](https://img.shields.io/badge/DIO%20Perfil-000?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_HERE&logoColor=00BFFF)](https://web.dio.me/users/programadoafonso)
+[![DIO Profile](https://img.shields.io/badge/DIO%20Perfil-000?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_HERE&logoColor=00BFFF)](https://web.dio.me/users/programadoafonso?tab=achievements)
 
 **📊 Estatísticas:**
 - ✅ **Certificados Concluídos:** [Ver conquistas](https://web.dio.me/users/programadoafonso?tab=achievements)
-- 📈 **Cursos em Andamento:** [Ver progresso](https://web.dio.me/users/programadoafonso?tab=courses)
-- 🏆 **Ranking:** [Ver posição](https://web.dio.me/users/programadoafonso?tab=ranking)
 
-🔗 **Link direto:** [https://web.dio.me/users/programadoafonso](https://web.dio.me/users/programadoafonso)
+
+🔗 **Link direto:** [https://web.dio.me/users/programadoafonso](https://web.dio.me/users/programadoafonso?tab=skills&page=1)
 
 ---
 
