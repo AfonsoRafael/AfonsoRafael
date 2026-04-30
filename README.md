@@ -2,9 +2,12 @@
 
 # Olá! Pode me chamar de **Afonso**  
 
-Sou apaixonado por tecnologia e pelo poder que ela tem de transformar ideias em soluções.  
-Concluí o ensino médio no **Colégio Militar Tiradentes (CMT)**, finalizei o curso técnico em **Informática pela ETB**, e me formei em **Análise e Desenvolvimento de Sistemas pela UCB**.  
-Atualmente curso **Ciência da Computação na UDF**, sempre buscando novos desafios e aprendizados.
+
+Sou estudante de Ciência da Computação, com formação técnica em Informática e tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+Possuo experiência em suporte técnico, apoio a times de desenvolvimento e ambiente corporativo, além de projetos práticos como Linux From Scratch, voltados ao entendimento profundo de sistemas operacionais.
+
+Tenho interesse em atuar como estagiário ou desenvolvedor júnior, com foco em back-end, utilizando Java, Python e PHP. Busco oportunidades onde possa evoluir tecnicamente e contribuir com soluções eficientes.
 
 No tempo livre, gosto de atividades que estimulam lógica e estratégia, como **xadrez**, **futebol** e **quebra-cabeças**. Essas experiências reforçam meu perfil analítico, criativo e sempre comprometido em resolver problemas.
 
