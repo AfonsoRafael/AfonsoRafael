@@ -1,6 +1,6 @@
 ![Descrição da Imagem](https://github.com/AfonsoRafael/AfonsoRafael/blob/main/AFONSO.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Afonso!;Eu+sou+Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80FFFF&size=30&center=true&&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Afonso!;Eu+sou+Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
 
 Sou estudante de Ciência da Computação, com formação técnica em Informática e tecnólogo em Análise e Desenvolvimento de Sistemas.
